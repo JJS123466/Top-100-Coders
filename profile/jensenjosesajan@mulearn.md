@@ -3,8 +3,8 @@
 ### About Me
 
 > Hi!!
-> I am Jensen Jose Sajan from Thiruvananthapuram Studying at Mar Baselios College of Engineering and Technology, Thiruvanathapuram as 1st Year Electronics and Communication Engineering Student.
-> I am passionate programmer who loves coding.
+> I am Jensen Jose Sajan from Thiruvananthapuram Studying at Mar Baselios College of Engineering and Technology, Thiruvananthapuram as a First Year Electronics and Communication Engineering Student.
+> I am a passionate programmer who loves coding.
 
 ### Portfolio Highlights
 
@@ -30,20 +30,20 @@
 #### Career Plan : 
 
 - Improve my Depth of knowledge in the field of programming.
-- Aiming to get a Job with High Package.
+- Aiming to get a Job with a High Package.
 - To be updated on the technological advancements happening in the world.
 
 #### Thoughts on Kerala's Tech Ecosystem :
 
-- Kerala is aiming a bright future for it's upcoming generation and has already started working on it. Kerala's growing tech ecosystem nurtures aspiring minds and fosters innovation. Tech-related events and festivals can fuel students' interest in technology, while combining technical expertise with finance knowledge can drive cost-effective, innovative solutions. Kerala Startup mission is one example in which we can see the state supporting startups in order to provide support and boost confidence among the youth.
+- Kerala is aiming for a bright future for its upcoming generation and has already started working on it. Kerala's growing tech ecosystem nurtures aspiring minds and fosters innovation. Tech-related events and festivals can fuel students' interest in technology while combining technical expertise with finance knowledge can drive cost-effective, innovative solutions. Kerala Startup mission is one example in which we can see the state supporting startups to provide support and boost confidence among the youth.
 
 #### History of Open Source Contributions :
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Currently, I am in the early stages of my academic journey and haven't had the opportunity to make open-source contributions. However, I am eager to explore this avenue as I progress in my studies.
 
 #### History of Community Engagement :
 
-- Participated in the codevita competition conducted by tcs.
+- Participated in the code vita competition conducted by TCS.
 
 #### Highly Used Software Tools :
 
