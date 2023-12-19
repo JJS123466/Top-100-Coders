@@ -3,7 +3,9 @@
 ### About Me
 
 > Hi!!
+
 > I am Jensen Jose Sajan from Thiruvananthapuram Studying at Mar Baselios College of Engineering and Technology, Thiruvananthapuram as a First Year Electronics and Communication Engineering Student.
+
 > I am a passionate programmer who loves coding.
 
 ### Portfolio Highlights
@@ -58,7 +60,6 @@
 
 As of now, I don't have profiles on competitive websites but I plan to create them as I progress in my academic and technical journey.
 
-> In your portfolio, include the following details :
-> check out [jensenjosesajan@mulearn.md](./profile/jensenjosesajan@mulearn.md) for an exmaple.
+> Check out [jensenjosesajan@mulearn.md](./profile/jensenjosesajan@mulearn.md)
 
 --
