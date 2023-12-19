@@ -60,6 +60,6 @@
 
 As of now, I don't have profiles on competitive websites but I plan to create them as I progress in my academic and technical journey.
 
-> Check out [jensenjosesajan@mulearn.md](./profile/jensenjosesajan@mulearn.md)
+> Check out [jensenjosesajan@mulearn.md]([./profile/jensenjosesajan@mulearn.md](https://github.com/JJS123466/Top-100-Coders/blob/main/profile/jensenjosesajan%40mulearn.md)https://github.com/JJS123466/Top-100-Coders/blob/main/profile/jensenjosesajan%40mulearn.md)
 
 --
