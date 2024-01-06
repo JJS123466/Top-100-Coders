@@ -49,7 +49,7 @@
 
 #### Highly Used Software Tools :
 
-- VSC
+- Visual Studio Code
 - GitHub
 - Online GDB
 - Infosys Springboard
